@@ -15,5 +15,5 @@ A simple command-line expense tracker built in Python.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/CLI-Expense-Tracker.git
+   git clone https://github.com/KevinS4160/CLI-Expense-Tracker.git
    cd CLI-Expense-Tracker
